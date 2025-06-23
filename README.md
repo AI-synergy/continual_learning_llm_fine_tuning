@@ -59,7 +59,7 @@ For more details, see the report below or refer to the notebook’s Markdown ann
 **Cold Email Pitch Title:** Continual-Learning LLM Fine-Tuning Showcase
 **Cold Email Pitch:** I built a CPU-only, parameter-efficient fine-tuning pipeline using LoRA and EWC to teach an LLM two speaker styles sequentially, achieving under 8% forgetting—happy to share details!
 
-# 🚀 Continual‑Learning LLM Fine‑Tuning
+# Continual‑Learning LLM Fine‑Tuning
 
 **By Krishna Chaitanya**
 
@@ -288,7 +288,7 @@ Fine-tuning performance and retention can often be improved by thoughtful hyperp
 
 ---
 
-## 🎉 Conclusion
+##  Conclusion
 
 This comprehensive pipeline demonstrates:
 
