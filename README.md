@@ -23,7 +23,7 @@ Welcome to the **Continual-Learning LLM Fine-Tuning Pipeline** repository. This 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/cont-lrn-llm-finetune.git
+   git clone https://github.com/AI-synergy/cont-lrn-llm-finetune.git
    cd cont-lrn-llm-finetune
    ```
 2. **Install dependencies** (recommended in a Python 3 virtual environment):
