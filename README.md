@@ -1,4 +1,3 @@
-# continual_learning_llm_fine_tuning
 # README
 
 Welcome to the **Continual-Learning LLM Fine-Tuning Pipeline** repository. This project demonstrates an efficient workflow for sequentially fine-tuning a language model on multiple speaker styles while minimizing catastrophic forgetting.
