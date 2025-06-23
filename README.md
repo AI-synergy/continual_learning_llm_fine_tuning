@@ -9,8 +9,7 @@ Welcome to the **Continual-Learning LLM Fine-Tuning Pipeline** repository. This 
 │   ├── lee_cronin3.csv      # Lee Cronin with Lex Fridman dialogue dataset
 │   └── lisa_randall.csv     # Lisa Randall with Lex Fridman dialogue dataset
 ├── checkpoints/
-│   ├── phase1/              # Saved model and tokenizer after Phase 1 fine-tuning
-│   └── phase2/              # Saved model and tokenizer after Phase 2 continual learning
+│
 ├── README.md                # Project overview and instructions
 └── requirements.txt         # Required Python packages
 ```
